@@ -1,0 +1,13 @@
+# Core dependencies for Weather + Air Quality project
+
+# Scientific stack
+numpy==1.26.4
+pandas==2.2.3
+requests==2.32.3
+
+# For working with JSON and APIs
+python-dateutil==2.9.0.post0
+
+# Optional (for plotting/visualization)
+matplotlib==3.9.2
+seaborn==0.13.2
